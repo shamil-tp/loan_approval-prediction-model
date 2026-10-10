@@ -59,7 +59,7 @@ df = pd.DataFrame({
 })
 
 # Save to CSV
-output_filename = 'indian_loan_approval_2000.csv'
+output_filename = 'loan_approval.csv'
 df.to_csv(output_filename, index=False)
 
 print(f"Dataset successfully created with {len(df)} rows!")
