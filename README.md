@@ -1,4 +1,4 @@
-# 🏦 Indian Loan Approval Prediction System
+# Loan Approval Prediction System
 
 An end-to-end Machine Learning web application tailored to Indian banking and underwriting standards. The system evaluates applicant eligibility using financial indicators such as **CIBIL Score**, **FOIR (Fixed Obligation to Income Ratio)**, **Monthly Income**, **Collateral Value**, and **Existing Monthly EMIs**.
 
